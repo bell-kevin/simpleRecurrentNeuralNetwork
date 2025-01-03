@@ -2,6 +2,8 @@
 
 # 
 
+Very minimal implementation of a simple RNN from scratch in Python using NumPy. This example focuses on the core idea of how an RNN updates its hidden state and produces outputs step-by-step. There are no bells and whistles—just the essential math.
+
 --------------------------------------------------------------------------------------------------------------------------
 == We're Using GitHub Under Protest ==
 
